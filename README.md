@@ -145,7 +145,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 <a href="">
  <br />
 <h3>Ana Julia Blande</h3>
-<img style="border-radius: 50%;" width="350px;" height= "500px;"  alt="" src=" imgs cod/ana.jpeg">
+<img style="border-radius: 50%;" width="350px;" height= "500px;"  alt="" src=" imgs cod/ana.jpg">
 
 
 
