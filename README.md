@@ -145,8 +145,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 <a href="">
  <br />
 <h3>Ana Julia Blande</h3>
-<img src="imgs cod/ana.jpeg">
-
+<img style="border-radius: 50%;" width="350px;" height= "500px;" src="imgs cod/ana.jpeg">
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)](https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)
