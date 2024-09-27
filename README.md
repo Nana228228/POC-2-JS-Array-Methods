@@ -59,7 +59,6 @@ const arr = [1, 30, 4, 21, 100000];
 arr.sort();
 console.log(arr); // [1, 100000, 21, 30, 4]
  ```
-<img src="imgs cod/sort.png">
  
 No entanto, é possível personalizar o modo de ordenação com uma função de comparação (callback) para o sort().
 
@@ -68,7 +67,8 @@ const numeros = [44, 14, 200, 9, 18];
 // Usando sort em ordem crescente
 const crescente = [...numeros].sort((a, b) => a - b);
 // Em ordem decrescente
-const decrescente = [...numeros].sort((a, b) => b - a); 
+const decrescente = [...numeros].sort((a, b) => b - a);
+<img src="imgs cod/sort.png">
  ```
 
 <h2 id="">Map</h2>
@@ -119,9 +119,9 @@ Este repositório consiste em pequenos trechos de código que exploram apenas um
 Clonando o Repositório bash Copiar código git clone https://github.com/seu-usuario/js-array-methods.git cd js-array-methods Executando os Exemplos Você pode abrir cada arquivo .js individualmente em seu editor de código favorito e testar os métodos diretamente em seu console JavaScript ou ambiente Node.js.
 
 <h2 id="autores"> Autores </h2>
-
+<div styles="display:flex;"> 
 <a href="">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="" width="300px;" height= "430px; alt=""/>
  <br />
 <h3>Naomi Arakaki</h3>
 <img src="imgs cod/E919DE67-90A4-433E-93BA-9FBC40BB2CF1.jpeg">
@@ -135,7 +135,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 <a href="">
  <br />
 <h3>Gabriel Aboboreira</h3>
-<img style="border-radius: 50%;" width="350px;" height= "500px;"  alt="" src="imgs cod/2023-05-26at08.21.20.jpeg">
+<img style="border-radius:50%;width=300px; height:430px;"  alt="" src="imgs cod/2023-05-26at08.21.20.jpeg">
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-aboboreira/)](https://www.linkedin.com/in/gabriel-aboboreira/)
@@ -145,8 +145,8 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 <a href="">
  <br />
 <h3>Ana Julia Blande</h3>
-<img style="border-radius: 50%;" width="350px;" height= "450px;" src="imgs cod/ana.jpeg">
-
+<img style="border-radius: 50%;" width="300px;" height= "400px;" src="imgs cod/ana.jpeg">
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)](https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)
 
