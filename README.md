@@ -119,7 +119,6 @@ Este repositório consiste em pequenos trechos de código que exploram apenas um
 Clonando o Repositório bash Copiar código git clone https://github.com/seu-usuario/js-array-methods.git cd js-array-methods Executando os Exemplos Você pode abrir cada arquivo .js individualmente em seu editor de código favorito e testar os métodos diretamente em seu console JavaScript ou ambiente Node.js.
 
 <h2 id="autores"> Autores </h2>
-<div styles="display:flex;"> 
 <a href="">
  <img style="border-radius: 50%;" src="" width="300px;" height= "430px; alt=""/>
  <br />
@@ -146,7 +145,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
  <br />
 <h3>Ana Julia Blande</h3>
 <img style="border-radius: 50%;" width="300px;" height= "400px;" src="imgs cod/ana.jpeg">
-</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)](https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)
 
