@@ -119,9 +119,7 @@ Este repositório consiste em pequenos trechos de código que exploram apenas um
 Clonando o Repositório bash Copiar código git clone https://github.com/seu-usuario/js-array-methods.git cd js-array-methods Executando os Exemplos Você pode abrir cada arquivo .js individualmente em seu editor de código favorito e testar os métodos diretamente em seu console JavaScript ou ambiente Node.js.
 
 <h2 id="autores"> Autores </h2>
-<a href="">
- <img style="border-radius: 50%;" src="" width="300px;" height= "430px; alt=""/>
- <br />
+
 <h3>Naomi Arakaki</h3>
 <img src="imgs cod/E919DE67-90A4-433E-93BA-9FBC40BB2CF1.jpeg">
 
