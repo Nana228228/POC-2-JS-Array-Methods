@@ -61,7 +61,7 @@ console.log(arr); // [1, 100000, 21, 30, 4]
  ```
  
 No entanto, é possível personalizar o modo de ordenação com uma função de comparação (callback) para o sort().
-obs: o `sort` modifica a ordem dos elementos do array original (para isso foi usado o  operador `...`). 
+obs: o `sort` modifica a ordem dos elementos do array original (para isso foi usado o  operador `...`, que cria uma cópia do array original para então  modificar sua ordem. 
  ```javascript
 const numeros = [44, 14, 200, 9, 18];
 // Usando sort em ordem crescente
