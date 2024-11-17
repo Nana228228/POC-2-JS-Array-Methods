@@ -61,15 +61,16 @@ console.log(arr); // [1, 100000, 21, 30, 4]
  ```
  
 No entanto, é possível personalizar o modo de ordenação com uma função de comparação (callback) para o sort().
-
+obs: o `sort` modifica a ordem dos elementos do array original (para isso foi usado o  operador `...`). 
  ```javascript
 const numeros = [44, 14, 200, 9, 18];
 // Usando sort em ordem crescente
 const crescente = [...numeros].sort((a, b) => a - b);
 // Em ordem decrescente
 const decrescente = [...numeros].sort((a, b) => b - a);
-<img src="imgs cod/sort.png">
+
  ```
+<img src="imgs cod/sort.png">
 
 <h2 id="">Map</h2>
 A função map() cria um novo array aplicando uma função a cada elemento do array original. Não modifica o array original.
