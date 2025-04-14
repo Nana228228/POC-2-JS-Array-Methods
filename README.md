@@ -14,7 +14,6 @@
   <a href="filter">Filter</a> •
   <a href="spread">Spread</a> •
   <a href="uso">Como usar?</a>
-  <a href="autores">Autores</a>
 </p>
 
 <h2>Descrição do projeto</h2>
@@ -118,27 +117,4 @@ const numeros1 = [1, 2, 3];
 Este repositório consiste em pequenos trechos de código que exploram apenas um conceito por vez. Você pode clonar o repositório e executar os exemplos no seu ambiente local.
 
 Clonando o Repositório bash Copiar código git clone https://github.com/seu-usuario/js-array-methods.git cd js-array-methods Executando os Exemplos Você pode abrir cada arquivo .js individualmente em seu editor de código favorito e testar os métodos diretamente em seu console JavaScript ou ambiente Node.js.
-
-<h2 id="autores"> Autores </h2>
-
-<h3>Naomi Arakaki</h3>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/naomi-suguimoto-57436b290/)]
-(https://www.linkedin.com/in/naomi-suguimoto-57436b290)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arakakinaomi228@gmail.com)](mailto:arakakinaomi228@gmail.com)
-
-
- <br/>
-<h3>Gabriel Aboboreira</h3>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-aboboreira/)](https://www.linkedin.com/in/gabriel-aboboreira/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:masterkillbr007@gmail.com)](mailto:masterkillbr007@gmail.com)
-
- <br/>
-<h3>Ana Julia Blande</h3>
-
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)](https://www.linkedin.com/in/ana-julia-blande-silva-348612286/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:anajblande04@gmail.com)](mailto:anajblande04@gmail.com)
 
